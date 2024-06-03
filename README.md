@@ -16,4 +16,4 @@
 <h2 id="but-eventually-">But eventually,</h2>
 <p>waaaaa</p>
 <h3 id="made-in">Made in...</h3>
-<p><img src="https://skillicons.dev/icons?i=py,yarp,js,css,html" alt="Made in..."></p>
+<p><img src="https://skillicons.dev/icons?i=py,cpp,js,css,html" alt="Made in..."></p>
