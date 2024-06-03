@@ -1,7 +1,19 @@
-<h1 id="spark">spark</h1>
+<p align="center">
+  <img src="./resources/spark-i.png" width="100" height="100">
+</p>
+<h1 align="center">Spark</h1>
 <p>A powerful, inexpensive, and optimized electric car.</p>
-<br>
-<h2 id="features">Features</h2>
+<p>Notable Features:</p>
 <ul>
-<li>a</li>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+<li>5</li>
 </ul>
+<h2 id="this-project-started-out">This project started out</h2>
+<p>aaaaaa.</p>
+<h2 id="but-eventually-">But eventually,</h2>
+<p>waaaaa</p>
+<h3 id="made-in">Made in completely <em>rstufff/em></h3>
+<p><img src="https://skillicons.dev/icons?i=js,css,html" alt="Made in..."></p>
