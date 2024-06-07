@@ -1,0 +1,19 @@
+{
+	"version": "1.0.0",
+	"debug": true,
+	"authors": [
+		{
+			"name": "Owen Gregson",
+			"github": "https://github.com/owengregson"
+		},
+		{
+			"name": "Peter Zhao",
+			"github": "https://github.com/Peter-Zhao-751"
+		}
+	],
+	"maxSpeedMPH": 60,
+	"requireSeatbelt": true,
+	"slowMode": false,
+	"slowModeReductionFactor": 0.5,
+	"useRegenBraking": true
+}
