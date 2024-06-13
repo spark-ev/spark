@@ -1,0 +1,15 @@
+{
+  "Outputs" : {
+    "classLabels" : {
+      "MLFeatureShortDescription" : "Varied pixel scores represent detected classes"
+    }
+  },
+  "Inputs" : {
+    "image" : {
+      "MLFeatureShortDescription" : "Image to be processed"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
